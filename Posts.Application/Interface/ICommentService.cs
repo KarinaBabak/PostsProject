@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using Posts.Model;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Posts.Model;
 
 namespace Posts.Application.Interface
 {
